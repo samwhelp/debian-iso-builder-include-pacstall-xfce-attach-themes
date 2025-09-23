@@ -11,7 +11,7 @@
 | ---- | ------ |
 | [debian-iso-builder-template](https://samwhelp.github.io/debian-iso-builder-template/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-template) |
 | `+` | `+` |
-| [debian-iso-builder-remix-pacstall-xfce-attach-themes](https://samwhelp.github.io/debian-iso-builder-remix-pacstall-xfce-attach-themes/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-remix-pacstall-xfce-attach-themes) |
+| [debian-iso-builder-import-pacstall-xfce-attach-themes](https://samwhelp.github.io/debian-iso-builder-import-pacstall-xfce-attach-themes/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-import-pacstall-xfce-attach-themes) |
 | `=` | `=` |
 | [debian-iso-builder-include-pacstall-xfce-attach-themes](https://samwhelp.github.io/debian-iso-builder-include-pacstall-xfce-attach-themes/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-include-pacstall-xfce-attach-themes) |
 
