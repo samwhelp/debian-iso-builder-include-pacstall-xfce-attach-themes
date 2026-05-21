@@ -4,11 +4,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [debian-iso-builder-template](https://samwhelp.github.io/debian-iso-builder-template/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-template) |
-| `+` | `+` |
-| [debian-iso-builder-import-pacstall-xfce-attach-themes](https://samwhelp.github.io/debian-iso-builder-import-pacstall-xfce-attach-themes/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-import-pacstall-xfce-attach-themes) |
-| `=` | `=` |
-| [debian-iso-builder-include-pacstall-xfce-attach-themes](https://samwhelp.github.io/debian-iso-builder-include-pacstall-xfce-attach-themes/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-include-pacstall-xfce-attach-themes) |
+| [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
+| `+` |
+| [debian-iso-builder-import-pacstall-xfce-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-xfce-attach-themes) |
+| `=` |
+| [debian-iso-builder-include-pacstall-xfce-attach-themes](https://github.com/samwhelp/debian-iso-builder-include-pacstall-xfce-attach-themes) |
 
 
 
@@ -110,7 +110,14 @@ make build
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian / Xfce / Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
-| [Debian / Xfce / Note](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
-| [Debian / Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Debian / Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Debian Xfce Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
+| [Debian Xfce Note](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Debian Note](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
