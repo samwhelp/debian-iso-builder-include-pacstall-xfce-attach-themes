@@ -2,8 +2,8 @@
 
 # Home
 
-| Link | GitHub |
-| ---- | ------ |
+| Link |
+| ---- |
 | [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 | `+` |
 | [debian-iso-builder-import-pacstall-xfce-attach-themes](https://github.com/samwhelp/debian-iso-builder-import-pacstall-xfce-attach-themes) |
